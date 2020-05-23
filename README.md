@@ -9,6 +9,7 @@ This script ouhgt to be used for educational purpose only, I'm not responsible f
 ## Modules used  
 * pyperclip==1.8.0  
 * base58==2.0.0  
+
 * Module installation:
 ```
 pip3 install -r requirements.txt
