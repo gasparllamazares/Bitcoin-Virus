@@ -23,4 +23,4 @@ pip3 install -r requirements.txt
 ```
 python virus.py
 ```
-* Test it by copying this BTC address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2 and pasting it anywhere, it should paste your custom address
+* Test it by copying this BTC address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2. Paste it anywhere, it should paste your custom address
