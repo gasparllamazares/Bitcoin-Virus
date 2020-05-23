@@ -17,6 +17,7 @@ pip3 install -r requirements.txt
 ## Run
 * We recommend creating a .exe file by using auto-py-to-exe (one file and windows based)
 * To hide it on another legit executable program play with Win Rar autoextraction, I ain't giving more clues
+* The virus can be stopped by just copying to the clipboard the next text: 'stopvirusnow'
 * In order to run on your computer for testing purposes just:
 ```
 python virus.py
