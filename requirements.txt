@@ -1,8 +1,2 @@
-keyboard==0.13.5
-numpy==1.18.2
-Pillow==7.0.0
-playsound==1.2.2
-py2exe==0.9.2.2
-pygame==1.9.6
-PySocks==1.7.1
-Slowloris==0.2.1
+pyperclip==1.8.0
+base58==2.0.0
